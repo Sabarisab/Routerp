@@ -1,0 +1,18 @@
+.service{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.service-prop{
+    background-color: aquamarine;
+    padding: 10px;
+    text-align: center;
+    
+
+}
+.Au{
+    
+    color:mediumseagreen;
+}
