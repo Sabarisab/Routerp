@@ -4,7 +4,7 @@ import { Outlet,Link} from "react-router-dom";
 export default function Layout() {
   return (
     <div>
-      <h2 className='Head'>Kongu Engineering College</h2>
+      <h3 className='Head'>Kongu Engineering College(Autonomous)<br></br>Perundurai,Erode-638060</h3>
         <nav>
             <ul class="bar">
                 <li><Link className='nav-Link' to="/">Home</Link></li>
