@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(167, 167, 167);
+    border: 5px ridge gold;
+    border-radius: 100px;
+    padding: 100px;
+    margin: 150px;
+}
+.counter-box{
+    color: rgb(5, 122, 15);
+}
+.button-container{
+    color: rgb(164, 134, 12);
+}

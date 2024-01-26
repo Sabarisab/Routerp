@@ -20,7 +20,7 @@ export default function App() {
       </BrowserRouter>
   )
 }
-// import React from 'react'
+// // import React from 'react'
 // import Basic from './Events/Basic'
 
 // export default function App() {
@@ -39,3 +39,28 @@ export default function App() {
 //     <div><Counter/></div>
 //   )
 // }
+// import React from 'react'
+// import Counter from './UseState/Counter'
+
+// export default function App() {
+//   return (
+//     <div><Counter/></div>
+//   )   
+// }
+// import React from 'react'
+// import Effect from './UseState/Effect'
+
+// export default function App() {
+//   return (
+    
+//     <div><Effect/></div>
+//   )
+// }
+// import React from 'react'
+// import Reducer from './UseState/Reducer'
+
+// export default function App() {
+//   return (
+//     <div><Reducer/></div>
+//   )
+//   }
