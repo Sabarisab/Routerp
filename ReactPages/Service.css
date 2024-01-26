@@ -1,10 +1,10 @@
 .service{
     display: grid;
-    padding:150px;
+    padding:100px;
     grid-template-columns: repeat(3,1fr);
-    gap: 20px;
-    margin-top: 10px;
+    gap: 50px;
     text-decoration: none;
+    font-size: 18px;
 }
 .service-prop{
     background-color: aquamarine;
@@ -26,4 +26,11 @@
 }
 .Pic1{
      width: 850px ;height: 350px;
+     border-radius: 20px;
+  }
+  @media(max-width:950x){
+        .Pic{
+            width:300px;height:150px ;
+        }
+
   }
